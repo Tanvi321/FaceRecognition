@@ -1,0 +1,19 @@
+body
+{color: white;
+background:linear-gradient(to right top, #B6D8F2, #B6D8F2, #F9CAD7, #F9CAD7, #F7F6CF);}
+
+.heading
+{width:80%;
+font-size: 22px;}
+
+#camera
+{border:2px dotted black;
+width:350px;
+height:350px;}
+
+.button
+{background-color:rgb(83, 180, 255);
+border-radius: 10;}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{color:black;}
